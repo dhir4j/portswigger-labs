@@ -28,25 +28,25 @@ The tools needed (other than Burp Pro) to complete the labs.
 
 ## Roadmap
 This primary goal is to add the **Apprentice** and **Practitioner** level labs (since are the ones suggested to complete before taking the exam):
-- [x] SQL Injection Labs
-- [x] XSS Labs
-- [x] CSRF Labs
-- [x] Clickjacking Labs
-- [x] DOM-based vulnerabilities Labs
-- [x] CORS Labs
-- [x] XXE Injection Labs
-- [x] SSRF Labs
+- [ ] SQL Injection Labs
+- [ ] XSS Labs
+- [ ] CSRF Labs
+- [ ] Clickjacking Labs
+- [ ] DOM-based vulnerabilities Labs
+- [ ] CORS Labs
+- [ ] XXE Injection Labs
+- [ ] SSRF Labs
 - [ ] HTTP Request Smuggling Labs
-- [x] OS Command Injection Labs
-- [x] Server-Side Template Injection Labs
-- [x] Directory Traversal Labs
-- [x] Access Control Vulnerabilities Labs
-- [x] Authentication Labs
-- [x] WebSockets Labs
-- [x] Web Cache Poisoning Labs
+- [ ] OS Command Injection Labs
+- [ ] Server-Side Template Injection Labs
+- [ ] Directory Traversal Labs
+- [ ] Access Control Vulnerabilities Labs
+- [ ] Authentication Labs
+- [ ] WebSockets Labs
+- [ ] Web Cache Poisoning Labs
 - [ ] Insecure Deserialization Labs
-- [x] Information Disclosure Labs
+- [ ] Information Disclosure Labs
 - [ ] Business Logic Vulnerabilities Labs
 - [ ] HTTP Host Header Attacks Labs
-- [x] OAuth Authentication Labs
-- [x] File Upload Vulnerabilities Labs
+- [ ] OAuth Authentication Labs
+- [ ] File Upload Vulnerabilities Labs
